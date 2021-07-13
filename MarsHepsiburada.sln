@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsHepsiburada", "MarsHepsiburada\MarsHepsiburada.csproj", "{96863DE8-ADCA-4E02-BD27-5BEB20EC4AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsHepsiburadaUnitTest", "MarsHepsiburadaUnitTest\MarsHepsiburadaUnitTest.csproj", "{D0A6C5A4-ECDF-4AD6-A604-32944AB22BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96863DE8-ADCA-4E02-BD27-5BEB20EC4AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96863DE8-ADCA-4E02-BD27-5BEB20EC4AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96863DE8-ADCA-4E02-BD27-5BEB20EC4AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96863DE8-ADCA-4E02-BD27-5BEB20EC4AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A6C5A4-ECDF-4AD6-A604-32944AB22BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A6C5A4-ECDF-4AD6-A604-32944AB22BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A6C5A4-ECDF-4AD6-A604-32944AB22BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A6C5A4-ECDF-4AD6-A604-32944AB22BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A147091-765F-46B7-AF00-E5A7E4A95D1D}
+	EndGlobalSection
+EndGlobal
